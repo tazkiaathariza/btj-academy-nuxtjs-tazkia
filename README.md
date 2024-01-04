@@ -20,8 +20,8 @@ Folder ini merupakan task ketiga dari materi JavaScript Framework. JavaScript fr
     - `organization.vue` - url `http://localhost:3000/admin/organization` : untuk menambah data di section organization pada halaman home.
     - `porto.vue` - url `http://localhost:3000/admin/porto` : untuk menambah data di section portfolio pada halaman home.
     - `work.vue` - url `http://localhost:3000/admin/work` : untuk menambah data di section work pada halaman home.
-2. `default.vue` : Merupakan layout untuk halaman Admin.
-3. `main.vue` : Merupakan layout untuk halaman Home.
+2. `index.vue` - url `http://localhost:3000/` : Merupakan halaman utama (home) yang bisa dilihat oleh user
+3. `login.vue` - url `http://localhost:3000/admin/login` : Merupakan halaman untuk login ke halaman Admin (CMS).
 
 Dalam proses pembuatan, menerapkan :
 - Konsep programmatic navigation
